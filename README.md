@@ -28,3 +28,4 @@ Octopus Pet Shop Example Web app written in .NET Core.  This solution consists o
 dbUpConnectionString=Data Source/=.\SQLEXPRESS;Integrated Security/=True;Connect Timeout/=30;Encrypt/=False;TrustServerCertificate/=False;ApplicationIntent/=ReadWrite;MultiSubnetFailover/=False;Database/=ops
 ```
 
+Adding info on how to update prices
