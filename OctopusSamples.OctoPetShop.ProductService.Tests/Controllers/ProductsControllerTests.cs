@@ -31,11 +31,11 @@ namespace OctopusSamples.OctoPetShop.ProductService.Tests
             },
             new ProductDetail
             {
-                Id = 4,
+                Id = 3,
                 Name = "Fish",
                 Description = "Goldie the goldfish",
                 ImageUrl = "https://s3.amazonaws.com/i.octopus.com/videos/Fish.png",
-                Price = 20.0,
+                Price = 25.0,
                 InStock = true
             },
             new ProductDetail
