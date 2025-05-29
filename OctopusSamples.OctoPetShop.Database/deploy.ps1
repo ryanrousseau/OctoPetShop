@@ -1,2 +1,2 @@
 $connectionString = $OctopusParameters["ConnectionStrings:OPSConnectionString"]
-.\OctopusSamples.OctoPetShop.Database.exe --ConnectionString="$connectionString"
+.\OctopusSamples.OctoPetShop.Database.dll --ConnectionString="$connectionString"
