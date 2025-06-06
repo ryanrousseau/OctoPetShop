@@ -1,5 +1,5 @@
 # Codefresh pipeline
-# testing codespaces for first time
+# testing codespaces for second time
 
 This folder contains Codefresh pipelines to mirror the ones for GitHub.
 
